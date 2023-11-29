@@ -1,4 +1,4 @@
-# AntiKernelDebug-poc
+# POC-AntiKernelDebug
 
 ## What's this?
 A POC about how to detect windows kernel debug by pool tag.
@@ -12,5 +12,5 @@ Tested in Win10 1809
 ![image](https://github.com/gmh5225/AntiKernelDebug-poc/blob/main/images/1.png)
 
 ## Compile
-- Visual Studio 2019
-- llvm-msvc [[link]](https://github.com/NewWorldComingSoon/llvm-msvc-build/releases)
+- Visual Studio 2022
+- llvm-msvc [[link]](https://github.com/backengineering/llvm-msvc/releases)
